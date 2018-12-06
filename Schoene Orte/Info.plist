@@ -41,5 +41,9 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Diese Funktion wird benötigt, um die Koordinaten eines eingegebenen Ortes zu speichern.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Der Zugriff auf Ihre Bilder ist nötig,  um ein Bild einen Ort zuzuordnen.</string>
 </dict>
 </plist>
